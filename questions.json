@@ -1,5 +1,5 @@
 [
-   {
+     {
         "question": "A hospital administrator is evaluating candidates for a Chief Medical Officer (CMO) position. According to best practices in healthcare leadership, which of the following traits is most essential for an effective physician leader?",
         "choices": [
             "Technical expertise in performing surgical procedures",
@@ -731,17 +731,30 @@
         "correctAnswer": 2,
         "explanation": "TAPVR results from failure of the pulmonary venous plexus to incorporate into the left atrium. This leads to systemic venous drainage of oxygenated blood, requiring an ASD or PDA for survival."
     },
+    [
     {
-        "question": "A full-term infant is diagnosed with preductal coarctation of the aorta. This condition is frequently associated with which of the following genetic disorders?",
+        "question": "A newborn is diagnosed with a congenital heart defect characterized by an overriding aorta, right ventricular hypertrophy, ventricular septal defect, and right ventricular outflow obstruction. Which of the following embryologic events is most likely responsible for this condition?",
         "choices": [
-            "Marfan syndrome",
-            "Turner syndrome",
-            "Trisomy 21",
-            "DiGeorge syndrome",
-            "Noonan syndrome"
+            "Failure of aorticopulmonary septum to spiral",
+            "Incomplete migration of neural crest cells",
+            "Excessive apoptosis of the septum primum",
+            "Abnormal cavitation of the ventricular myocardium",
+            "Failure of the endocardial cushions to fuse"
         ],
         "correctAnswer": 1,
-        "explanation": "Preductal coarctation of the aorta is commonly associated with Turner syndrome (45, XO). It results from abnormal development of the aortic arch, leading to a narrowing that can cause differential cyanosis and require ductal-dependent circulation."
+        "explanation": "Tetralogy of Fallot (TOF) is caused by defective neural crest cell migration, leading to anterocephalad displacement of the infundibular septum. This results in the four classic features: pulmonary stenosis, right ventricular hypertrophy, overriding aorta, and a ventricular septal defect. TOF is commonly associated with **22q11 deletion syndrome** (DiGeorge syndrome)."
+    },
+    {
+        "question": "A 2-day-old neonate with profound cyanosis is diagnosed with transposition of the great arteries (TGA). The pediatric cardiologist prescribes an infusion of prostaglandin E1. What is the primary purpose of this therapy?",
+        "choices": [
+            "To close the patent ductus arteriosus (PDA)",
+            "To keep the foramen ovale open",
+            "To maintain ductal patency and allow mixing of blood",
+            "To reduce pulmonary vascular resistance",
+            "To promote closure of the ventricular septal defect"
+        ],
+        "correctAnswer": 2,
+        "explanation": "TGA is a cyanotic congenital heart defect in which the aorta arises from the right ventricle and the pulmonary artery arises from the left ventricle, creating two parallel circulations. **Prostaglandin E1 is used to keep the ductus arteriosus open**, allowing oxygenated and deoxygenated blood to mix until a definitive surgical repair (arterial switch procedure) can be performed."
     },
     {
         "question": "A newborn with severe cyanosis is started on prostaglandin E2 therapy to maintain ductus arteriosus patency. This treatment is most beneficial in which congenital heart defect?",
@@ -851,4 +864,4 @@
         "correctAnswer": 1,
         "explanation": "Nonbacterial thrombotic endocarditis (NBTE), also known as marantic endocarditis, is associated with malignancy and hypercoagulable states. It is characterized by sterile vegetations composed of fibrin and platelets, usually affecting the mitral valve."
     }
-        ]
+    ]
