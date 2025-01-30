@@ -1,5 +1,101 @@
 [
-     {
+    {
+        "question": "Which type of arrhythmia most likely shows a delta wave on the resting ECG?",
+        "choices": [
+            "Atrial fibrillation",
+            "Atrial flutter",
+            "Atrioventricular nodal reentrant tachycardia",
+            "Premature atrial complexes",
+            "Wolff-Parkinson-White (WPW) syndrome"
+        ],
+        "correctAnswer": 4,
+        "explanation": "Wolff-Parkinson-White (WPW) syndrome is characterized by an accessory conduction pathway that bypasses the AV node, causing ventricular preexcitation. This results in a characteristic **delta wave** on ECG, along with a shortened PR interval and widened QRS complex. Other choices do not produce delta waves: atrial fibrillation (A) has absent P waves, atrial flutter (B) has a sawtooth pattern, AV nodal reentrant tachycardia (C) has retrograde P waves, and premature atrial complexes (D) have ectopic P waves."
+    },
+    {
+        "question": "Which of the following supraventricular tachyarrhythmias is most likely to be reversed using the Valsalva maneuver?",
+        "choices": [
+            "Atrial fibrillation",
+            "Atrial flutter",
+            "Atrioventricular nodal reentrant tachycardia",
+            "Multifocal atrial tachycardia",
+            "Wolff-Parkinson-White syndrome"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Atrioventricular nodal reentrant tachycardia (AVNRT) is a reentrant tachycardia that involves the AV node. Vagal maneuvers like **Valsalva or carotid sinus massage** increase parasympathetic tone, slowing AV nodal conduction and terminating the arrhythmia in many cases. Atrial fibrillation (A) and atrial flutter (B) typically require rate control or rhythm control strategies, while multifocal atrial tachycardia (D) is usually secondary to an underlying condition like COPD. WPW syndrome (E) often requires **radiofrequency ablation** of the accessory pathway."
+    },
+    {
+        "question": "A patient is started on flecainide for an arrhythmia. Which of the following correctly describes this drug’s mechanism of action?",
+        "choices": [
+            "Calcium channel blocker",
+            "Inhibits sympathetic input to cardiac myocytes",
+            "Potassium channel blocker",
+            "Sodium channel blocker with strong use dependence",
+            "Sodium channel blocker with weak use dependence"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Flecainide is a Class IC antiarrhythmic that exhibits strong use dependence, meaning it binds more tightly to sodium channels at faster heart rates. This property makes it effective for supraventricular arrhythmias but contraindicated in structural heart disease due to its proarrhythmic effects."
+    },
+    {
+        "question": "A woman starts having joint pain and an erythematous rash on her face after being treated for a supraventricular arrhythmia. Which of the following medications most likely caused her symptoms?",
+        "choices": [
+            "Amiodarone",
+            "Lidocaine",
+            "Procainamide",
+            "Propranolol",
+            "Sotalol"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Procainamide is a Class IA antiarrhythmic associated with drug-induced lupus erythematosus, which presents with arthralgia, rash, and positive anti-nuclear antibodies (ANA). Other antiarrhythmics such as amiodarone, lidocaine, and propranolol are not commonly associated with drug-induced lupus."
+    },
+    {
+        "question": "A patient with persistent atrial fibrillation comes to the emergency department with shortness of breath. A computed tomography scan is ordered and shows a honeycombing pattern. Which of the following agents was the patient most likely prescribed?",
+        "choices": [
+            "Amiodarone",
+            "Disopyramide",
+            "Propafenone",
+            "Propranolol",
+            "Verapamil"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Amiodarone, a Class III antiarrhythmic, is known for causing pulmonary fibrosis, which presents with progressive dyspnea and interstitial lung disease ('honeycombing' on imaging). Regular pulmonary function tests are recommended in patients taking long-term amiodarone."
+    },
+    {
+        "question": "A patient presents to the emergency department with chest pain. He is found to have irregular P waves and also has Q waves and ST elevations on ECG, indicative of a myocardial infarction. Which of the following medications is contraindicated?",
+        "choices": [
+            "Amiodarone",
+            "Diltiazem",
+            "Mexiletine",
+            "Propafenone",
+            "Propranolol"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Propafenone, a Class IC antiarrhythmic, is contraindicated in structural heart disease or post-myocardial infarction due to its high proarrhythmic risk. Class IC drugs significantly prolong QRS duration, which can precipitate life-threatening arrhythmias in patients with underlying heart disease."
+    },    
+    {
+        "question": "A newborn is diagnosed with transposition of the great vessels, a condition in which the aorta comes from the right ventricle and the pulmonary trunk comes from the left ventricle. Failure of what embryologic event most likely gave rise to this condition?",
+        "choices": [
+            "Aorticopulmonary septum spiraling",
+            "Foramen ovale closure",
+            "Foramen primum formation",
+            "Membranous interventricular septum fusion with the muscular interventricular septum",
+            "Septum secundum fusion with the septum primum"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Failure of the aorticopulmonary septum to spiral leads to transposition of the great vessels. Failure of foramen ovale closure (B) and the foramen primum formation (C) would affect atrial septation, not proper outflow tract formation. Membranous interventricular septum fusion with the muscular interventricular septum (D) failure would result in failure of ventricular septation and possibly lead to a ventricular septal defect. Failure of septum secundum fusion with septum primum (E) is another atrial septation event."
+    },
+    {
+        "question": "Which of the following structures is critical in both atrial and ventricular septation?",
+        "choices": [
+            "Aorticopulmonary septum",
+            "Endocardial cushions",
+            "Membranous interventricular septum",
+            "Septum secundum",
+            "Truncus arteriosus"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Only the endocardial cushions are involved in both atrial and ventricular septation. The aorticopulmonary septum (A) is important in proper formation of the outflow tract and contributes to the membranous interventricular septum. Formation of the membranous interventricular septum (C) is critical in ventricular septation but not in atrial septation. The septum secundum (D) is important in atrial, not ventricular, septation. The truncus arteriosus (E) is another structure important in proper formation of the outflow tract."
+    },
+{
         "question": "A hospital administrator is evaluating candidates for a Chief Medical Officer (CMO) position. According to best practices in healthcare leadership, which of the following traits is most essential for an effective physician leader?",
         "choices": [
             "Technical expertise in performing surgical procedures",
@@ -468,17 +564,17 @@
         "explanation": "Fusion and capture beats are pathognomonic for VT, as they indicate independent atrial and ventricular activity. VT is the most common cause of wide-complex tachycardia, especially in patients with structural heart disease."
     }, 
   {
-    "question": "A 65-year-old man with a history of hypertension, hyperlipidemia, and smoking presents with worsening chest pain over the past two months. A coronary angiogram reveals a 70% occlusion of the left anterior descending artery. Histopathologic examination of an atherosclerotic plaque shows a fibrous cap, lipid-laden macrophages, and necrotic debris. Which of the following is the earliest **detectable** histologic lesion in the development of atherosclerosis?",
-    "choices": [
-        "Isolated foam cells in the intima",
-        "Fatty streaks",
-        "Fibrofatty plaques",
-        "Calcified plaques",
-        "Ulcerated atheromas"
-    ],
-    "correctAnswer": 1,
-    "explanation": "While foam cells appear first in the intima, the earliest **detectable** histologic lesion of atherosclerosis is the fatty streak, which consists of accumulated foam cells forming visible yellow streaks on the arterial intima. These can eventually progress to fibrofatty plaques and complicated atheromas."
-},
+        "question": "A 65-year-old man with a history of hypertension, hyperlipidemia, and smoking presents with worsening chest pain over the past two months. A coronary angiogram reveals a 70% occlusion of the left anterior descending artery. Histopathologic examination of an atherosclerotic plaque shows a fibrous cap, lipid-laden macrophages, and necrotic debris. Which of the following is the earliest histologic lesion in the development of atherosclerosis?",
+        "choices": [
+            "Foam cell formation",
+            "Fatty streaks",
+            "Fibrofatty plaques",
+            "Calcified plaques",
+            "Ulcerated atheromas"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The earliest lesion in atherosclerosis is the fatty streak, which appears as yellowish streaks on the intima of arteries and consists of lipid-laden macrophages (foam cells) without significant luminal narrowing. Over time, these lesions progress to fibrofatty plaques and eventually complicated atheromas."
+    },
     {
         "question": "A 70-year-old man with a long history of smoking and uncontrolled hypertension presents with abdominal pain and a pulsatile mass in the periumbilical region. Imaging reveals an infrarenal aortic aneurysm measuring 6.5 cm. Which of the following is the most common underlying cause of this condition?",
         "choices": [
