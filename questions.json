@@ -468,17 +468,17 @@
         "explanation": "Fusion and capture beats are pathognomonic for VT, as they indicate independent atrial and ventricular activity. VT is the most common cause of wide-complex tachycardia, especially in patients with structural heart disease."
     }, 
   {
-        "question": "A 65-year-old man with a history of hypertension, hyperlipidemia, and smoking presents with worsening chest pain over the past two months. A coronary angiogram reveals a 70% occlusion of the left anterior descending artery. Histopathologic examination of an atherosclerotic plaque shows a fibrous cap, lipid-laden macrophages, and necrotic debris. Which of the following is the earliest histologic lesion in the development of atherosclerosis?",
-        "choices": [
-            "Foam cell formation",
-            "Fatty streaks",
-            "Fibrofatty plaques",
-            "Calcified plaques",
-            "Ulcerated atheromas"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The earliest lesion in atherosclerosis is the fatty streak, which appears as yellowish streaks on the intima of arteries and consists of lipid-laden macrophages (foam cells) without significant luminal narrowing. Over time, these lesions progress to fibrofatty plaques and eventually complicated atheromas."
-    },
+    "question": "A 65-year-old man with a history of hypertension, hyperlipidemia, and smoking presents with worsening chest pain over the past two months. A coronary angiogram reveals a 70% occlusion of the left anterior descending artery. Histopathologic examination of an atherosclerotic plaque shows a fibrous cap, lipid-laden macrophages, and necrotic debris. Which of the following is the earliest **detectable** histologic lesion in the development of atherosclerosis?",
+    "choices": [
+        "Isolated foam cells in the intima",
+        "Fatty streaks",
+        "Fibrofatty plaques",
+        "Calcified plaques",
+        "Ulcerated atheromas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "While foam cells appear first in the intima, the earliest **detectable** histologic lesion of atherosclerosis is the fatty streak, which consists of accumulated foam cells forming visible yellow streaks on the arterial intima. These can eventually progress to fibrofatty plaques and complicated atheromas."
+},
     {
         "question": "A 70-year-old man with a long history of smoking and uncontrolled hypertension presents with abdominal pain and a pulsatile mass in the periumbilical region. Imaging reveals an infrarenal aortic aneurysm measuring 6.5 cm. Which of the following is the most common underlying cause of this condition?",
         "choices": [
